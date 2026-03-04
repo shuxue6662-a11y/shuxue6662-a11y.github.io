@@ -53,5 +53,13 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
 
   - name: SQL
+    web_url: https://github.com/topics/sql
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png
 
-  - name: 数学
+  - name: 机器学习
+    web_url: https://github.com/topics/machine-learning
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/machine-learning/machine-learning.png
+
+  - name: NLP
+    web_url: https://github.com/topics/nlp
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nlp/nlp.png

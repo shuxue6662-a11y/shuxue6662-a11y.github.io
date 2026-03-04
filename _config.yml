@@ -29,7 +29,7 @@ projects:
     # - repo-name
 
 social_media:
-  github: 张弘
+  github: shuxue6662-a11y
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
@@ -58,8 +58,7 @@ topics:
 
   - name: 机器学习
     web_url: https://github.com/topics/machine-learning
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/machine-learning/machine-learning.png
-
+    
   - name: NLP
     web_url: https://github.com/topics/nlp
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nlp/nlp.png
+    

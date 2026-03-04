@@ -58,7 +58,8 @@ topics:
 
   - name: 机器学习
     web_url: https://github.com/topics/machine-learning
+    image_url: https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=100&h=100&fit=crop
     
   - name: NLP
     web_url: https://github.com/topics/nlp
-    
+    image_url: https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=100&h=100&fit=crop

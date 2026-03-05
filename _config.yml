@@ -56,7 +56,7 @@ topics:
     web_url: https://github.com/topics/sql
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png
 
-  - name: 机器学习
+  - name: 深度学习
     web_url: https://github.com/topics/machine-learning
     image_url: https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=100&h=100&fit=crop
     
